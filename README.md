@@ -1,7 +1,7 @@
 # my-personal-website Zachary Louis Esguerra
-## ✅ Features Implemented
+## Features Implemented
 
-- **Semantic HTML Structure**: Used `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>` for well-organized, accessible markup.
+- **HTML Structure**: Used `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>` for well-organized, accessible markup.
 - **CSS Styling**: Created a clean, responsive, modern red-accented layout using an external stylesheet with media queries for mobile devices.
 - **JavaScript Functionality**:
   - Smooth scroll to the Contact section when clicking the “Contact Me” button.
@@ -10,7 +10,7 @@
 - **Skills Section**: Categorized skills into Beginner, Intermediate, and Advanced for easy readability.
 - **Project Structure**: Files are neatly organized into `/styles`, `/scripts`, `/images`, and root for HTML and README.
 
-## 🔧 Design Choices & Deviations from the Wireframe
+## Design Choices from the Wireframe
 
 - **Modern Font (Roboto)**: Instead of a generic default font, Roboto was chosen via Google Fonts to match a professional, clean aesthetic.
 - **Color Pairing**: Red was kept as the primary color (as requested), paired with dark gray text and white/light backgrounds for contrast and readability.
