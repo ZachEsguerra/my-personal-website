@@ -6,7 +6,6 @@
 - **JavaScript Functionality**:
   - Smooth scroll to the Contact section when clicking the “Contact Me” button.
   - Dynamic active navigation highlighting based on scroll position.
-- **Form Handling**: Contact form ready to connect with [Formspree](https://formspree.io) for real email delivery.
 - **Social Media Integration**: Icons and text for Facebook, Instagram, Twitter, and YouTube included in the Contact section.
 - **Skills Section**: Categorized skills into Beginner, Intermediate, and Advanced for easy readability.
 - **Project Structure**: Files are neatly organized into `/styles`, `/scripts`, `/images`, and root for HTML and README.
